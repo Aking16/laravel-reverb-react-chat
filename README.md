@@ -1,12 +1,6 @@
 
 ## Laravel Reverb: Real-Time Chat App
 
-How to build real-time chat app using Laravel Reverb.
-
-Reverb is a first-party WebSocket server for Laravel applications, bringing real-time communication between client and server.
-
-In this [freeCodeCamp article](https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/) you will learn how to build real-time chat application using Laravel Reverb. With that you can easily implement WebSocket communications between your backend and frontend. As a frontend technology, you  can use anything you want, but in this case we'll use React.js with the Vite.js build tool.
-
 <img src="https://i.imgur.com/kIRE69i.gif" style="width: 100%;">
 
 
@@ -137,9 +131,3 @@ There was no need to run `npm run dev` command, because the assets were already 
 <img src="https://i.imgur.com/6AwfKEB.png" style="width: 100%;">
 
 - Open the application in two different browser windows (or with normal and incognito mode), register two or more users, and start chatting with each other.
-
-
-
-#### Author:
-
-- [BoolFalse](https://boolfalse.com/)
