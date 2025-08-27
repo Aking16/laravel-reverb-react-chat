@@ -15,7 +15,7 @@
 
 - Clone the repository, or download the zip file and extract it.
 ```shell
-git clone git@github.com:boolfalse/laravel-reverb-react-chat.git && cd laravel-reverb-react-chat/
+git clone https://github.com/Aking16/laravel-reverb-react-chat.git && cd laravel-reverb-react-chat/
 ```
 
 - Copy the `.env.example` file to `.env`:
